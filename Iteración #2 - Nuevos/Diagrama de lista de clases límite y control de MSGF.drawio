@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Casos de Uso - Punto 5" id="IDBXW68IICHRL4w_aDxG">
+    <mxGraphModel dx="1246" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-97" parent="1" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;fillColor=#e1f5fe;strokeColor=#0288d1;" value="" vertex="1">
+          <mxGeometry height="395" width="280" x="160" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-98" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#0288d1;fontStyle=1;" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&#xa;PantallaMenuPrincipal" vertex="1">
+          <mxGeometry height="45" width="240" x="180" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-99" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#0288d1;fontStyle=1;" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&#xa;InterfazCalcularFondo" vertex="1">
+          <mxGeometry height="45" width="240" x="180" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-100" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#0288d1;fontStyle=1;" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&#xa;InterfazGestionHipoteca" vertex="1">
+          <mxGeometry height="45" width="240" x="180" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-101" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#0288d1;fontStyle=1;" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&#xa;InterfazGestionInversion" vertex="1">
+          <mxGeometry height="45" width="240" x="180" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-102" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#0288d1;fontStyle=1;" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&#xa;InterfazGestionBecaCredito" vertex="1">
+          <mxGeometry height="45" width="240" x="180" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-103" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#0288d1;fontStyle=1;" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&#xa;InterfazImpresionReporte" vertex="1">
+          <mxGeometry height="45" width="240" x="180" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-104" parent="1" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;whiteSpace=wrap;fillColor=#fff3e0;strokeColor=#f57c00;" value="" vertex="1">
+          <mxGeometry height="395" width="280" x="500" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-105" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#f57c00;fontStyle=1;" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&#xa;GestorLoopSistema" vertex="1">
+          <mxGeometry height="45" width="240" x="520" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-106" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#f57c00;fontStyle=1;" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&#xa;ControladorCalculoFondo" vertex="1">
+          <mxGeometry height="45" width="240" x="520" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-107" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#f57c00;fontStyle=1;" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&#xa;ControladorGestionHipoteca" vertex="1">
+          <mxGeometry height="45" width="240" x="520" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-108" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#f57c00;fontStyle=1;" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&#xa;ControladorGestionInversion" vertex="1">
+          <mxGeometry height="45" width="240" x="520" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-109" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#f57c00;fontStyle=1;" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&#xa;ControladorGestionBecaCredito" vertex="1">
+          <mxGeometry height="45" width="240" x="520" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-110" parent="1" style="html=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#f57c00;fontStyle=1;" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&#xa;ControladorGenerarReporte" vertex="1">
+          <mxGeometry height="45" width="240" x="520" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-111" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-105" style="endArrow=open;endSize=12;dashed=1;html=1;" target="RLk5HpRNvvMIMhYTABKe-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-112" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;endArrow=open;endSize=12;dashed=1;html=1;" target="RLk5HpRNvvMIMhYTABKe-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-113" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-107" style="endArrow=open;endSize=12;dashed=1;html=1;" target="RLk5HpRNvvMIMhYTABKe-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-114" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-108" style="endArrow=open;endSize=12;dashed=1;html=1;" target="RLk5HpRNvvMIMhYTABKe-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-115" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-109" style="endArrow=open;endSize=12;dashed=1;html=1;" target="RLk5HpRNvvMIMhYTABKe-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-116" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-110" style="endArrow=open;endSize=12;dashed=1;html=1;" target="RLk5HpRNvvMIMhYTABKe-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Clases Limite" vertex="1">
+          <mxGeometry height="30" width="110" x="160" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Clases Control" vertex="1">
+          <mxGeometry height="30" width="110" x="500" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

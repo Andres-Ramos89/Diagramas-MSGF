@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Casos de Uso - Punto 5" id="IDBXW68IICHRL4w_aDxG">
+    <mxGraphModel dx="1062" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-59" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RLk5HpRNvvMIMhYTABKe-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-60" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.08;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RLk5HpRNvvMIMhYTABKe-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-61" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.44;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RLk5HpRNvvMIMhYTABKe-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-62" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.26;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="RLk5HpRNvvMIMhYTABKe-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-63" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.62;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RLk5HpRNvvMIMhYTABKe-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ejecución del Sistema (Loop - bucle del sistema)" vertex="1">
+          <mxGeometry height="60" width="850" x="340" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-96" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="RLk5HpRNvvMIMhYTABKe-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-66" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="532" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="745" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-68" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="RLk5HpRNvvMIMhYTABKe-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="752.5" y="377.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Salir" vertex="1">
+          <mxGeometry height="47" width="80" x="752.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-71" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RLk5HpRNvvMIMhYTABKe-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="900" />
+              <mxPoint x="1230" y="900" />
+              <mxPoint x="1230" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-72" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=13.388888888888971;" value="Mostrar el calculo de los fondos" vertex="1">
+          <mxGeometry height="105" width="136" x="339" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Calcular Fondos" vertex="1">
+          <mxGeometry height="30" width="80" x="402" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Calculando Fondo" vertex="1">
+          <mxGeometry height="30" width="110" x="353" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-75" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-72" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="408" y="750" as="sourcePoint" />
+            <mxPoint x="408" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-95" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="561" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-76" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=13.388888888888971;" value="CRUD Hipotecas" vertex="1">
+          <mxGeometry height="105" width="140" x="491" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gestionar hipoteca" vertex="1">
+          <mxGeometry height="30" width="80" x="556" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gestionando Hipoteca" vertex="1">
+          <mxGeometry height="30" width="130" x="496" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-94" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="714" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-80" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=13.388888888888971;" value="CRUD Inversiones" vertex="1">
+          <mxGeometry height="105" width="140" x="644" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gestionar Inversiones" vertex="1">
+          <mxGeometry height="30" width="80" x="710" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gestionando Inversiones" vertex="1">
+          <mxGeometry height="30" width="136" x="646" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-92" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="867" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-84" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=13.388888888888971;" value="CRUD Becas-Credito" vertex="1">
+          <mxGeometry height="105" width="140" x="797" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gestionar Becas" vertex="1">
+          <mxGeometry height="30" width="80" x="867" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gestionando Becas-Credito" vertex="1">
+          <mxGeometry height="15" width="123" x="805" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-93" edge="1" parent="1" source="RLk5HpRNvvMIMhYTABKe-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-88" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=13.388888888888971;" value="Generar e Imprimir" vertex="1">
+          <mxGeometry height="105" width="140" x="950" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Generar Reporte" vertex="1">
+          <mxGeometry height="30" width="80" x="1016" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RLk5HpRNvvMIMhYTABKe-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Generacion Reporte" vertex="1">
+          <mxGeometry height="30" width="130" x="955" y="645" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
